@@ -1,7 +1,3 @@
-#############################
-# main_mpi.py (모든 스텝 저장)
-#############################
-
 import argparse
 import numpy as np
 import time
